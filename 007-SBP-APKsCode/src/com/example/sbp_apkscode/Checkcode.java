@@ -9,6 +9,10 @@ public class Checkcode {
 	public void delete(){
 		System.out.println("Delete");
 	}
+	
+	public void update(){
+		System.out.println("Update");
+	}
 }
 
 
