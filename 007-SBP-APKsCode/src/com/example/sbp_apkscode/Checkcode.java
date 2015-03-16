@@ -13,6 +13,10 @@ public class Checkcode {
 	public void update(){
 		System.out.println("Update");
 	}
+	
+	public void test(){
+		System.out.println("test");
+	}
 }
 
 
