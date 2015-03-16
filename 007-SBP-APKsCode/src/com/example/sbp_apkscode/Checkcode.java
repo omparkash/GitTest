@@ -5,6 +5,10 @@ public class Checkcode {
 		
 		System.out.println("sdfsdf");
 	}
+	
+	public void delete(){
+		System.out.println("Delete");
+	}
 }
 
 
